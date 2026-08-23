@@ -1,0 +1,6 @@
+{
+  "name": "Holiday Content Calendar & Visual Grid",
+  "description": "Offline-first holiday campaign organizer with visual feed grid preview, local browser image serialization, and downloadable CSV content calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
