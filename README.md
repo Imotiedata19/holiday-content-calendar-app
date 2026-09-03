@@ -8,6 +8,12 @@ Managing holiday campaigns across multiple dates and posts can become difficult 
 
 I developed the Holiday Content Calendar & Visual Grid to provide a simple way to organize holiday content, preview campaign visuals, schedule content dates, and generate a structured content calendar.
 
+## 📊 Application Dashboard
+
+Below is the visual dashboard of the Holiday Content Calendar & Visual Grid application.
+
+![Holiday Content Calendar Dashboard](holiday_content_calendar_dashboard.png)
+
 ## 🎯 Problem
 
 Content creators and small businesses often need to manage:
